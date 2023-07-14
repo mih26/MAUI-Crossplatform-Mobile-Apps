@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\R52_Last_Evidence_API.props" />
+</Project>

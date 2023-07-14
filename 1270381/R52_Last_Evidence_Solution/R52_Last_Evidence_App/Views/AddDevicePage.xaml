@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="R52_Last_Evidence_App.Views.AddDevicePage"
+             Title="Add Product Page">
+    <VerticalStackLayout>
+        <Label 
+            Text="Add New Product"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <StackLayout Margin="10" Spacing="10">
+            <VerticalStackLayout>
+                <Label Text="Product Name" />
+                <Entry Text="{Binding DeviceName,Mode=TwoWay}" />
+            </VerticalStackLayout>
+            <VerticalStackLayout>
+                <Label Text="Price" />
+                <Entry Text="{Binding Price,Mode=TwoWay}" />
+            </VerticalStackLayout>
+            <VerticalStackLayout>
+                <Label Text="Manufactured Date" />
+                <DatePicker Date="{Binding ReleaseDate,Mode=TwoWay}" />
+            </VerticalStackLayout>
+            <HorizontalStackLayout VerticalOptions="CenterAndExpand">
+                <Label Text="Available" HeightRequest="30" />
+                <CheckBox IsChecked="{Binding OnSale,Mode=TwoWay}" />
+            </HorizontalStackLayout>
+            <VerticalStackLayout HorizontalOptions="Start">
+                <Label Text="Picture" />
+                <Label Text="{Binding Picture, Mode=TwoWay}" />
+                <Button Text="Browse" Clicked="Button_Clicked_1" />
+            </VerticalStackLayout>
+            <VerticalStackLayout >
+                <Button Text="Save" Clicked="Button_Clicked" />
+            </VerticalStackLayout>
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentPage>

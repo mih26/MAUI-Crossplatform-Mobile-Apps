@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:R52_Last_Evidence_App.ViewModels"
+             x:Class="R52_Last_Evidence_App.Views.SpecListPage"
+             Title="Config List Page">
+    <ScrollView>
+        <VerticalStackLayout Margin="10" Spacing="10">
+            <Label 
+            Text="Configuration List"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+            <HorizontalStackLayout HorizontalOptions="End">
+                <Button x:Name="Add" Text="+" HeightRequest="30" Clicked="Add_Clicked"/>
+            </HorizontalStackLayout>
+                
+                <CollectionView ItemsSource="{Binding .}">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                                              <VerticalStackLayout Spacing="10" Margin="10">
+
+                                <HorizontalStackLayout Margin="5" Spacing="10">
+                                    <Label Text="{Binding SpecName}" FontAttributes="Bold" />
+                                    <Label Text="{Binding Value}" />
+                                </HorizontalStackLayout>
+
+                                <BoxView HeightRequest=".5" Color="LightGray" />
+
+                            </VerticalStackLayout>
+                          
+                        
+                       
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+               
+
+            </CollectionView>
+           
+        </VerticalStackLayout>
+       
+            
+      
+    </ScrollView>
+</ContentPage>

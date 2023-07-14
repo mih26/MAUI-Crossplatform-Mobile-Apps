@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>R52_Last_Evidence_App</name>
+    </assembly>
+    <members>
+        <member name="T:R52_Last_Evidence_App.ViewModels.DeviceListViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:R52_Last_Evidence_App.ViewModels.DeviceListViewModel.displayActionCommand">
+            <summary>The backing field for <see cref="P:R52_Last_Evidence_App.ViewModels.DeviceListViewModel.DisplayActionCommand"/>.</summary>
+        </member>
+        <member name="P:R52_Last_Evidence_App.ViewModels.DeviceListViewModel.DisplayActionCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:R52_Last_Evidence_App.ViewModels.DeviceListViewModel.DisplayAction(R52_Last_Evidence_App.ViewModels.DeviceViewModel)"/>.</summary>
+        </member>
+        <member name="T:R52_Last_Evidence_App.ViewModels.SpecViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:R52_Last_Evidence_App.ViewModels.SpecViewModel.SpecId">
+            <inheritdoc cref="F:R52_Last_Evidence_App.ViewModels.SpecViewModel.specId"/>
+        </member>
+        <member name="P:R52_Last_Evidence_App.ViewModels.SpecViewModel.SpecName">
+            <inheritdoc cref="F:R52_Last_Evidence_App.ViewModels.SpecViewModel.specName"/>
+        </member>
+        <member name="P:R52_Last_Evidence_App.ViewModels.SpecViewModel.Value">
+            <inheritdoc cref="F:R52_Last_Evidence_App.ViewModels.SpecViewModel.value"/>
+        </member>
+        <member name="P:R52_Last_Evidence_App.ViewModels.SpecViewModel.DeviceId">
+            <inheritdoc cref="F:R52_Last_Evidence_App.ViewModels.SpecViewModel.deviceId"/>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SpecId">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SpecId" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SpecName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SpecName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Value">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Value" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.DeviceId">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "DeviceId" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SpecId">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SpecId" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SpecName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SpecName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Value">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Value" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.DeviceId">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "DeviceId" generated properties.</summary>
+        </member>
+    </members>
+</doc>

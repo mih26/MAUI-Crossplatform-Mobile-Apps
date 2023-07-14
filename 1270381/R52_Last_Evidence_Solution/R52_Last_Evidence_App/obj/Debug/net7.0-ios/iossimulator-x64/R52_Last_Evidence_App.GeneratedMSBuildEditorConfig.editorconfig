@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = R52_Last_Evidence_App
+build_property.ProjectDir = I:\1270381\R52_Last_Evidence_Solution\R52_Last_Evidence_App\
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/Views/AddDevicePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.Views.AddDevicePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddDevicePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddDevicePage.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/Views/AddSpecPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.Views.AddSpecPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddSpecPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddSpecPage.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/Views/DeviceListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.Views.DeviceListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\DeviceListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\DeviceListPage.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/Views/EditDevicePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.Views.EditDevicePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditDevicePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditDevicePage.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/Views/EditSpecPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.Views.EditSpecPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditSpecPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditSpecPage.xaml
+
+[I:/1270381/R52_Last_Evidence_Solution/R52_Last_Evidence_App/Views/SpecListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = R52_Last_Evidence_App.Views.SpecListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SpecListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SpecListPage.xaml

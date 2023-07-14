@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\Pictures\\k52tbo5m.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\k52tbo5m.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\Pictures\\stqtmz0l.png",
+      "PackagePath": "staticwebassets\\Pictures\\stqtmz0l.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\Pictures\\zrreuvmb.png",
+      "PackagePath": "staticwebassets\\Pictures\\zrreuvmb.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.R52_Last_Evidence_API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.R52_Last_Evidence_API.props",
+      "PackagePath": "build\\R52_Last_Evidence_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.R52_Last_Evidence_API.props",
+      "PackagePath": "buildMultiTargeting\\R52_Last_Evidence_API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.R52_Last_Evidence_API.props",
+      "PackagePath": "buildTransitive\\R52_Last_Evidence_API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "KfuZ/LtL0/3Q2pzPgpX2MrpnUkxd+0VsAn3k6YXi7Cc=",
+  "Source": "R52_Last_Evidence_API",
+  "BasePath": "_content/R52_Last_Evidence_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "R52_Last_Evidence_API\\wwwroot",
+      "Source": "R52_Last_Evidence_API",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\",
+      "BasePath": "_content/R52_Last_Evidence_API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\Pictures\\1.jpg",
+      "SourceId": "R52_Last_Evidence_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\",
+      "BasePath": "_content/R52_Last_Evidence_API",
+      "RelativePath": "Pictures/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\Pictures\\k52tbo5m.jpg",
+      "SourceId": "R52_Last_Evidence_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\",
+      "BasePath": "_content/R52_Last_Evidence_API",
+      "RelativePath": "Pictures/k52tbo5m.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\k52tbo5m.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\Pictures\\stqtmz0l.png",
+      "SourceId": "R52_Last_Evidence_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\",
+      "BasePath": "_content/R52_Last_Evidence_API",
+      "RelativePath": "Pictures/stqtmz0l.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\stqtmz0l.png"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\Pictures\\zrreuvmb.png",
+      "SourceId": "R52_Last_Evidence_API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\1270381\\R52_Last_Evidence_Solution\\R52_Last_Evidence_API\\wwwroot\\",
+      "BasePath": "_content/R52_Last_Evidence_API",
+      "RelativePath": "Pictures/zrreuvmb.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Pictures\\zrreuvmb.png"
+    }
+  ]
+}

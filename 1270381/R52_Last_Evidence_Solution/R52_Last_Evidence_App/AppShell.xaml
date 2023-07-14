@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="R52_Last_Evidence_App.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:R52_Last_Evidence_App"
+     xmlns:views="clr-namespace:R52_Last_Evidence_App.Views"
+    Shell.FlyoutBehavior="Flyout">
+    <Shell.FlyoutHeader>
+        <HorizontalStackLayout Margin="0" Padding="10" BackgroundColor="LightBlue">
+            <Label Text="Product MAUI APP" FontSize="32" />
+        </HorizontalStackLayout>
+    </Shell.FlyoutHeader>
+    <Shell.FlyoutFooter>
+        <Label Text="© 2023" />
+    </Shell.FlyoutFooter>
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="Product"
+        ContentTemplate="{DataTemplate views:DeviceListPage}"
+        Route="DeviceListPage" />
+   
+
+</Shell>
