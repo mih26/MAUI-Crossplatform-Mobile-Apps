@@ -1,0 +1,11 @@
+A cross-platform Mobile application Project for Product Management System Using MAUI which use different platforms such as Android, Windows, iOS, macOS
+
+The following technologies are used:
+ MAUI
+ MS-SQL
+ C#
+ API
+ ASP.NET Core (MVC)
+ Entity Framework
+ Database Migration
+ View Model
